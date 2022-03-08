@@ -198,7 +198,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("kook.jpg") top center;
+  background: url("https://media-exp1.licdn.com/dms/image/C561BAQGfEhGPeVC6Yg/company-background_10000/0/1519798318510?e=2147483647&v=beta&t=j77jXfUVWB-18BoK4VXd1Z3If4Q_f_omn1-QO-Tb4Vo") top center;
   background-size: cover;
 }
 #hero:before {
